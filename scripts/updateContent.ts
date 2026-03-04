@@ -7,6 +7,17 @@ const M3U_URLS = [
     'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR04.m3u',
     // Adicione mais URLs aqui:
     // 'https://exemplo.com/outro.m3u',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR%20-%20Completo.m3u8',
+    // Adicione mais URLs aqui:
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR01.m3u8',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR02.m3u8',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Jumper.m3u8',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial01.m3u8',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial02.m3u8',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial03.m3u',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial04.m3u',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial05.m3u8',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial06.m3u8',
 ];
 const ENRICHED_DIR = path.join(process.cwd(), 'public/data/enriched');
 const MANIFEST_FILE = path.join(ENRICHED_DIR, '_manifest.json');
