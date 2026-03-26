@@ -5,6 +5,14 @@ import { normalizeName } from '../src/services/m3uService';
 
 const M3U_URLS = [
     'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR04.m3u',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/CanaisBR02.m3u8',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Jumper.m3u8',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial01.m3u8',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial02.m3u8',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial03.m3u',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial04.m3u',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial05.m3u8',
+    'https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2026/refs/heads/master/Lista%20Mundial06.m3u8',
     // Adicione mais URLs aqui:
     // 'https://exemplo.com/outro.m3u',
 ];
